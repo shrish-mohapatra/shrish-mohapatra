@@ -1,4 +1,6 @@
 ### Hi, I'm Shrish 👋
+
+![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-mohapatra&count_private=true&theme=merko)
 - I'm a full-stack web & software developer
 - I'm studying Honours Computer Science at Carleton University
 - I'm the founder of Auratec, IT solutions firm
@@ -8,7 +10,7 @@
 ![InterChat Card](https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=interchat&theme=merko)
 ![Pythonify Card](https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=pythonify&theme=merko)
 
-**My Most Used Languages**
+**🐍 My Most Used Languages**
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
@@ -16,7 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=007ACC)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
-**My Favourite Technologies**
+**💻 My Favourite Technologies**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React)
@@ -28,5 +30,3 @@
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=azure-devops)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-
-![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-mohapatra&count_private=true&theme=merko)
