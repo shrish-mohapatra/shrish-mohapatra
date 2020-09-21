@@ -1,6 +1,4 @@
 ### Hi, I'm Shrish 👋
-
-![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-mohapatra&count_private=true&theme=merko)
 - I'm a full-stack web & software developer
 - I'm studying Honours Computer Science at Carleton University
 - I'm the founder of Auratec, IT solutions firm
