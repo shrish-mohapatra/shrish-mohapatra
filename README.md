@@ -10,8 +10,8 @@
 
 **🐍 My Most Used Languages**
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=007ACC)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
