@@ -5,8 +5,7 @@
 
 **🔭 My Latest Projects**
 
-![Fleamarket 52 Card](https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko)
-![Pythonify Card](https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=pythonify&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko" href="https://github.com/shrish-mohapatra/fleamarket-52">
 
 **🐍 My Most Used Languages**
 
