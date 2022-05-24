@@ -5,7 +5,7 @@
 
 **🔭 My Latest Projects**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko" href="https://github.com/shrish-mohapatra/fleamarket-52">
+<a href="https://github.com/shrish-mohapatra/fleamarket-52"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko"></a>
 
 **🐍 My Most Used Languages**
 
