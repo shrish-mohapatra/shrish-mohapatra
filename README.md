@@ -1,11 +1,15 @@
 ### Hi, I'm Shrish 👋
-- I'm a full-stack web & software developer
+- I'm a full-stack software developer
 - I'm studying Honours Computer Science at Carleton University
-- I'm the founder of Auratec, IT solutions firm
 
 **🔭 My Latest Projects**
 
-<a href="https://github.com/shrish-mohapatra/fleamarket-52"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko"></a>
+<a href="https://github.com/shrish-mohapatra/fleamarket-52">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko">
+</a>
+<a href="https://github.com/shrish-mohapatra/electrek-navigation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=electrek-navigation&theme=merko">
+</a>
 
 **🐍 My Most Used Languages**
 
