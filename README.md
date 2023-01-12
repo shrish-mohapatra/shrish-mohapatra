@@ -2,21 +2,12 @@
 - I'm a full-stack software developer
 - I'm studying Honours Computer Science at Carleton University
 
-**🔭 My Latest Projects**
-
-<a href="https://github.com/shrish-mohapatra/fleamarket-52">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=fleamarket-52&theme=merko">
-</a>
-<a href="https://github.com/shrish-mohapatra/electrek-navigation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrish-mohapatra&repo=electrek-navigation&theme=merko">
-</a>
-
 **🐍 My Most Used Languages**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
 **💻 My Favourite Technologies**
