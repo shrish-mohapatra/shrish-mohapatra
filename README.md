@@ -1,6 +1,6 @@
 ### Hi, I'm Shrish 👋
 - I'm a full-stack software developer
-- I'm studying Honours Computer Science at Carleton University
+- I'm currently working on leveraging LLMs to generate knowledge graphs
 
 **🐍 My Most Used Languages**
 
